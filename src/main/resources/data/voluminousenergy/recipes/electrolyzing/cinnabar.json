@@ -2,7 +2,7 @@
   "type": "voluminousenergy:electrolyzing",
   "ingredients": [
     {
-      "item": "voluminousenergy:cinnabar_dust",
+      "tag": "c:dusts/cinnabar",
       "count": 2
     },
     {
